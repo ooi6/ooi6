@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ooi6
-- 👀 I’m interested in automation, optimisation, avoiding doing repetitive shit that computers are great at.
+- 👀 I’m interested in automation, optimisation, avoiding doing repetitive toil that computers are great at.
 - 🌱 I’m currently learning GitHub and Ansible. 
 
 <!---
